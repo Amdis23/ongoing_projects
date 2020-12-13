@@ -6,7 +6,7 @@ Minor projects which could lead to research paper
 Summary of the project:
 1.	The microgrid (MG) is connected to the power utility and is also equipped with a PV panel and battery energy storage system.
 2.	Load in the microgrid (MG) can be classified into critical, deferrable and controllable loads. Critical loads will be lights and fans. Deferrable loads will be washing machines, motors used for water pumping system, refrigerator etc. In addition, we will have controllable loads like air-conditioners.
-3.	It is assumed that time of use tariff (TOU) is in place. 
+3.	It is assumed that time of use tariff (TOU) is in place. We are also optimizing the cable size and power flow for better stochastic propeties. (less noise)
 4.	Loads will be connected to the control room of the microgrid (MG) energy system via smart sensors, e.g., temperature sensor will be sensing the temperature of the room and sending the signal to the central energy management system (EMS) software. For water pumping system, level of water will be assessed by level sensors and sent to the EMS.
 5.	In the proposed scheme, the microgrid (MG) consumer will try to minimize energy use in the time interval when the load/demand on the main grid/utility is high (i.e., high electricity price). 
 6.	Power consumption of deferrable loads will be shifted to off-peak periods to the extent possible for achieving peak shaving and valley filling. This relieves the grid from being overstressed and also helps in reducing the electricity bill of the consumer.
