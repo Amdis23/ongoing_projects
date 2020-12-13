@@ -2,6 +2,16 @@
 Minor projects which could lead to research paper
 
 
+
+#fast_emd
+
+Usual EMD is a method to decompose a signal without leaving the time domain. Developing a fast and online algorithm for controlling the grid-tied inverters using tools of statistics and machine learning.
+
+Approaching different concepts like non-parametric estimation of signal, compressed sensing, kNN, SVM, Markov chain to make the algorithm more computationally efficient. 
+
+
+
+
 #smart_building
 Summary of the project:
 1.	The microgrid (MG) is connected to the power utility and is also equipped with a PV panel and battery energy storage system.
