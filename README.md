@@ -14,6 +14,12 @@ Approaching different concepts like non-parametric estimation of signal, compres
 
 #smart_building
 Summary of the project:
+
+A novel stochastic energy and reserve scheduling method for a smart building which considers various type of demand
+response(DR) programs. Uncertainties related to renewable distributed generation and load are modelled by proper probability distribution functions
+and are managed by reserve provided by both the DGs and loads.
+
+
 1.	The microgrid (MG) is connected to the power utility and is also equipped with a PV panel and battery energy storage system.
 2.	Load in the microgrid (MG) can be classified into critical, deferrable and controllable loads. Critical loads will be lights and fans. Deferrable loads will be washing machines, motors used for water pumping system, refrigerator etc. In addition, we will have controllable loads like air-conditioners.
 3.	It is assumed that time of use tariff (TOU) is in place. We are also optimizing the cable size and power flow for better stochastic propeties. (less noise)
